@@ -1,0 +1,17 @@
+.text-bubble__input-form {
+    display: flex;
+    margin-top: 2%;
+    width: 40%;
+    margin-left: 50%;
+    margin-bottom: 1vh;
+  }
+  
+  .text-bubble__input-form input {
+    flex:auto;
+    background-color: #f5f5f5;;
+    font-size:medium;
+    font-weight:400;
+    padding: 2rem;
+    border: 0;
+    border-radius: 4rem;
+  }

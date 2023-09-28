@@ -1,0 +1,29 @@
+
+.condition-display-container {
+    display: flex;
+    width: 25%;
+    background-color: #d7edff;
+    margin-left: 2vw;
+    padding:0;
+}
+
+.condition-name {
+    margin-left: 2vh;
+    margin-top: 1vh;
+    margin-bottom: 0.5vh;
+    margin-right: 1vh;
+    overflow: hidden;
+    font-weight: bold;
+    font-size:95%;
+}
+
+.condition-value {
+    font-size:95%;
+    overflow: hidden;
+    margin-left: 2vh;
+    margin-top: 1vh;
+    margin-bottom: 0.5vh;
+    margin-right: 1vh;
+    font-weight: 800;
+    color: #071f33;
+}
